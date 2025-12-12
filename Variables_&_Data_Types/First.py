@@ -11,3 +11,11 @@ print("My height is : ", height, "Feet")
 print(type(name))  
 print(type(age))
 print(type(height))
+
+age = 23
+old = True
+a = None
+
+print(type(age))
+print(type(old))
+print(type(a))
