@@ -1,5 +1,0 @@
-print("Hello, World!")
-print("Welcome to Python programming.")
-print("This is a simple script.")
-print("Enjoy coding!")
-print("Goodbye!")
